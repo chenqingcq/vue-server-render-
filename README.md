@@ -3,16 +3,16 @@
 >1.Development trend
 >
 >
-Recently the past few years of the front circle, because the stage is generally brilliant, from MVC to MVVM, you just sing me play. Backbone, AngularJS has become yesterday's yellow, reactjs flourishing, while another more lightweight vue development momentum more fierce, known both the advantages of angularjs and reactjs both.
+>Recently the past few years of the front circle, because the stage is generally brilliant, from MVC to MVVM, you just sing me play. Backbone, AngularJS has become yesterday's yellow, reactjs flourishing, while another more lightweight vue development momentum more fierce, known both the advantages of angularjs and reactjs both.
 >
 >
 >2.What can Vue do
 >
 >
-Mobile Internet demand has been much higher than the pc-side, especially the hybrid H5 applications, but the performance problem has been pain points. If you use SPA (which is commonly known as Single Page Web Application), SPA restricts all activities to a Web page and loads the corresponding HTML, JavaScript, and CSS only when the Web page is initialized. Once the page is loaded, the SPA will not reload or jump the page for the user's operation. No page switch, there is no white screen block, you can greatly improve the performance of H5, close to the original smooth experience.
+>Mobile Internet demand has been much higher than the pc-side, especially the hybrid H5 applications, but the performance problem has been pain points. If you use SPA (which is commonly known as Single Page Web Application), SPA restricts all activities to a Web page and loads the corresponding HTML, JavaScript, and CSS only when the Web page is initialized. Once the page is loaded, the SPA will not reload or jump the page for the user's operation. No page switch, there is no white screen block, you can greatly improve the performance of H5, close to the original smooth experience.
 >
 >
-Continue to see vue has been more than two months, and in March the use of vue2.0 developed a simple blog, in the use of vue human advantages at the same time, also encountered a lot of pit, a lot of problems, I share the experience Problems and solutions
+>Continue to see vue has been more than two months, and in March the use of vue2.0 developed a simple blog, in the use of vue human advantages at the same time, also encountered a lot of pit, a lot of problems, I share the experience Problems and solutions
 
 
 ## Vue2_blog
@@ -33,15 +33,15 @@ npm run build
 :clap::clap::clap::clap::clap:Look here: if it is just a beginner's small partner, do not know how to project clone to the local, how to run locally, here wrote a detailed documentation, and I hope to help you  [Documentation](https://github.com/alloyteamzy/vue2_blog/blob/master/instruction.md):clap::clap::clap::clap::clap:
 ## The main function of the realization
 >
-1.User login
+>1.User login
 >
-2.User registration
+>2.User registration
 >
-3.User published text
+>3.User published text
 >
-4.User comments text
+>4.User comments text
 >
-5.User leave word
+>5.User leave word
 
 ## Construct
 >
@@ -67,7 +67,7 @@ npm run build
 >
 ## Project preview
 >
-[Vue_blog(Only fit the mobile side)](https://www.zygg.cc)
+>[Vue_blog(Only fit the mobile side)](https://www.zygg.cc)
 >
 >
 ## To sum up
@@ -79,16 +79,16 @@ npm run build
 >1.发展趋势
 >
 >
-最近这几年的前端圈子，由于戏台一般精彩纷呈，从 MVC 到 MVVM，你刚唱罢我登场。 backbone，AngularJS 已成昨日黄花，reactjs 如日中天，同时另一更轻量的 vue 发展势头更猛，号称兼具了 angularjs 和 reactjs 的两者优点。
+>最近这几年的前端圈子，由于戏台一般精彩纷呈，从 MVC 到 MVVM，你刚唱罢我登场。 backbone，AngularJS 已成昨日黄花，reactjs 如日中天，同时另一更轻量的 vue 发展势头更猛，号称兼具了 angularjs 和 reactjs 的两者优点。
 >
 >
 >2.Vue能干吗
 >
 >
-移动端的上网需求已经远高于pc端，特别是 hybrid 方式的H5应用中，但是性能问题一直是痛点。 如果使用 SPA（就是俗称的单页应用（Single Page Web Application）），SPA它将所有的活动局限于一个Web页面中，仅在该Web页面初始化时加载相应的HTML、JavaScript 和 CSS。一旦页面加载完成了，SPA不会因为用户的操作而进行页面的重新加载或跳转。没有页面切换，就没有白屏阻塞，可以大大提高 H5 的性能，达到接近原生的流畅体验。
+>移动端的上网需求已经远高于pc端，特别是 hybrid 方式的H5应用中，但是性能问题一直是痛点。 如果使用 SPA（就是俗称的单页应用（Single Page Web Application）），SPA它将所有的活动局限于一个Web页面中，仅在该Web页面初始化时加载相应的HTML、JavaScript 和 CSS。一旦页面加载完成了，SPA不会因为用户的操作而进行页面的重新加载或跳转。没有页面切换，就没有白屏阻塞，可以大大提高 H5 的性能，达到接近原生的流畅体验。
 >
 >
-陆续续看vue已经二个多月了，3月份使用vue2.0开发了一个简单的博客，在用vue人性化优势的同时，的也遇到过很多坑，很多问题，分享一下我遇到的问题和解决办法
+>陆续续看vue已经二个多月了，3月份使用vue2.0开发了一个简单的博客，在用vue人性化优势的同时，的也遇到过很多坑，很多问题，分享一下我遇到的问题和解决办法
 
 
 ## Vue2_blog
@@ -110,15 +110,15 @@ npm run build
 
 ## 主要实现的功能
 >
-1.用户登录
+>1.用户登录
 >
-2.用户注册
+>2.用户注册
 >
-3.用户发帖
+>3.用户发帖
 >
-4.用户评论帖
+>4.用户评论帖
 >
-5.用户留言
+>5.用户留言
 
 ## 构建
 >
@@ -145,7 +145,7 @@ npm run build
 >
 ## 项目预览
 >
-[Vue_blog(只适配了移动端)](https://www.zygg.cc)
+>[Vue_blog(只适配了移动端)](https://www.zygg.cc)
 >
 >
 ## 总结
